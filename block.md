@@ -1,0 +1,7 @@
+```javascript
+
+function hello() {
+  console.log('hello')
+}
+
+```
