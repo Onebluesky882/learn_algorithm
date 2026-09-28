@@ -22,3 +22,5 @@ Generic Type — แบบฝึกหัด 10 ข้อ
     สร้าง FieldConfig<T> สำหรับ Form โดย name ต้องรับเฉพาะ property ที่มีอยู่ใน T เช่น UserForm มี name, age, email ก็ห้ามใส่ "banana"
 
 ทำ ข้อ 1 → 10 ตามลำดับ เพราะแต่ละข้อจะต่อยอดจากข้อก่อนหน้าครับ.
+
+
